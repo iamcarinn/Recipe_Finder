@@ -1,5 +1,6 @@
 # 🍽️ Food_Recipe_App
 **A website for searching recipes by ingredient using the API.**
+<img align='right' src="https://media.giphy.com/media/fAQN9WLg46TtCQ0CFb/giphy.gif" width="350"></img>
 
 🔎 + 🥚 = 🍳 Enter the ingredient and see the available recipes.
 
